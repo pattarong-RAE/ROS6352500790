@@ -1,0 +1,8 @@
+mkdir My_dir
+cd My_dir
+touch ROBOT_CLASS.txt
+git init
+git add ROBOT_CLASS.txt
+git commit -m "Upload"
+git remote add origin https://github.com/robot-class/final.git
+git push

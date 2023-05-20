@@ -1,0 +1,2 @@
+final
+-DCATKIN_DEVEL_PREFIX=/home/pattarong/Desktop/Final_ROS/My_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/pattarong/Desktop/Final_ROS/My_ROS/install -G Unix Makefiles
